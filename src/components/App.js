@@ -24,6 +24,12 @@ function App() {
 
   return (
     <>
+      <header className="header">
+        <div className="logo-container">
+          <span className="logo-icon" role="img" aria-label="Laptop">&#128187;</span>
+          <span className="echo-logo">EchoCode</span>
+        </div>
+      </header>
       <div className="pane top-pane">
         <Editor
           language="xml"
